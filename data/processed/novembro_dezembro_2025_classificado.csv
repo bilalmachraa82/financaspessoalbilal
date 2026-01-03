@@ -1,0 +1,386 @@
+Date,Bank,Description,Valor,Debit,Credit,Categoria,Confianca,Observacao
+2025-11-28,Millennium,COMPRA 6340 LIDL MONTE CAPARICA CAS CONTACTLESS,45.5,45.5,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-28,Millennium,COMPRA 6340 BARRETO E FELIX LDA MON CONTACTLESS,13.99,13.99,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-28,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-28,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-28,Millennium,COMISSAO TRF MBWAY 70.00 APP MB WAY,0.14,0.14,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-11-28,Millennium,COMISSAO TRF MBWAY 52.00 APP MB WAY,0.1,0.1,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-28,Millennium,IMPOSTO DO SELO,0.21,0.21,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-28,Millennium,CUSTO DE SERVICO INTERNACIONAL,5.15,5.15,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-11-28,Millennium,COMPRA 6340 CLAUDE.AI SUBSCRIPTION ANTHROPIC.CO,133.71,133.71,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-27,Millennium,COMPRA 6340 PINGO DOCE LISBOA,5.17,5.17,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-11-27,Millennium,TRF. P/O HELENE KONOKOVI ABIASSI,350.0,0.0,350.0,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-11-27,Millennium,COMPRA 6340 EST SERVICO A.S. TELHEIRAS LISBOA,7.7,7.7,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-27,Millennium,"TRF P/ AXIS TREE CLINICAL CENTER, LDA",70.0,70.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-27,Millennium,TRF MB WAY P/ PEDRO MIGUEL HENRIQUES MONTEIRO,70.0,70.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-27,Millennium,TRF MB WAY P/ FLAVIANE CARREIRO PACHECO DE MORA,52.0,52.0,0.0,Casa - Limpeza,0.95,Classificado automaticamente
+2025-11-25,Millennium,COMPRA 6340 GOOGLE YOUTUBE G.CO HELPPAY IE,17.99,17.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-24,Millennium,LEV ATM 6340 BPI   ALVERCA       Galp - R Vasco,40.0,40.0,0.0,Deslocações Bilal - Combustível,0.92,Classificado automaticamente
+2025-11-24,Millennium,TRF. P/O ARQ  CARLOS ALBERTO DE ASSUNCA,150.0,0.0,150.0,Receitas - Rendas Fontanelas,1.05,Classificado automaticamente
+2025-11-24,Millennium,COMPRA 6340 BARRETO E FELIX LDA MONTE CAPARICA,12.1,12.1,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-11-24,Millennium,COMPRA 6340 MA QUINTAS CAPARICA MON CONTACTLESS,9.07,9.07,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-24,Millennium,COMPRA 6340 PRAIA VAZ MONTE DE CAPA CONTACTLESS,7.8,7.8,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-21,Millennium,PAG BXVAL- 6340 VIAVERDE,0.6,0.6,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-11-21,Millennium,COMISSAO TRF MBWAY 40.00 APP MB WAY,0.08,0.08,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-21,Millennium,IMPOSTO DO SELO,0.14,0.14,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-11-21,Millennium,CUSTO DE SERVICO INTERNACIONAL,3.55,3.55,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-21,Millennium,COMPRA 6340 CLAUDE.AI SUBSCRIPTION ANTHROPIC.CO,92.21,92.21,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-21,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-21,Millennium,CUSTO DE SERVICO INTERNACIONAL,0.24,0.24,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-21,Millennium,COMPRA 6340 ANTHROPIC ANTHROPIC.COMCA,6.15,6.15,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-21,Millennium,COMPRA 6340 MA QUINTAS CAPARICA MON CONTACTLESS,13.01,13.01,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-21,Millennium,COMPRA 6340 CORETO FONTANELAS       CONTACTLESS,9.25,9.25,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-21,Millennium,PAGSERV DMNS - Domi 12614/415538991 HIPAY SAS,73.55,73.55,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-21,Millennium,PAGSERV DMNS - Domi 12614/416291026 HIPAY SAS,35.85,35.85,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-21,Millennium,COMPRA 6340 MERCEARIA FONTANELAS2705-595 S J LA,8.55,8.55,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-21,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,500.0,500.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-11-21,Millennium,TRF. P/O HELENE KONOKOVI ABIASSI,575.0,0.0,575.0,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-11-21,Millennium,TRF MB WAY P/ SILVIA CRISTINA SILVA TAVARES COS,40.0,40.0,0.0,Casa - Limpeza,1.05,Classificado automaticamente
+2025-11-21,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-20,Millennium,PAG BXVAL- 6340 VIAVERDE,1.13,1.13,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-11-20,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,300.0,300.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-11-20,Millennium,TRF. P/O HELENE KONOKOVI ABIASSI,1000.0,0.0,1000.0,Receitas - Soluções IA,1.05,Classificado automaticamente
+2025-11-20,Millennium,TRF. P/O ROSALIA MARIA SIMOES SOUSA DAVID,180.0,0.0,180.0,Receitas - Lifewave,1.08,Classificado automaticamente
+2025-11-19,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,164.0,164.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-11-19,Millennium,COMPRA 6340 WWW.IBERDROLA.PT 1250-146 LISBOA,335.88,335.88,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-19,Millennium,PAGSERV ASCENDI GRANDE LISBOA  21219/272308089,2.81,2.81,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-19,Millennium,TRF. P/O  STRONG EFFORT-CONSULTORIA   FORMACAO,492.0,0.0,492.0,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-11-18,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-18,Millennium,CUSTO DE SERVICO INTERNACIONAL,0.34,0.34,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-18,Millennium,COMPRA 6340 LOVABLE LOVABLE.DEV DE,8.95,8.95,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-18,Millennium,COMPRA 6340 AMAZON 1T8B32YM5 LUXEMBOURG LU,30.49,30.49,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-18,Millennium,COMPRA 6340 MTS Contactless Amora P CONTACTLESS,1.7,1.7,0.0,Deslocações Bilal - Transportes,0.92,Classificado automaticamente
+2025-11-18,Millennium,IMPOSTO DO SELO,0.02,0.02,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-18,Millennium,CUSTO DE SERVICO INTERNACIONAL,0.42,0.42,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-18,Millennium,COMPRA 6340 NANONOBLE PTE. LTD. SINGAPORE SG,10.83,10.83,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-18,Millennium,IMPOSTO DO SELO,0.03,0.03,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-11-18,Millennium,CUSTO DE SERVICO INTERNACIONAL,0.85,0.85,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-11-18,Millennium,COMPRA 6340 CLAUDE.AI SUBSCRIPTION ANTHROPIC.CO,22.14,22.14,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-18,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,50.0,50.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-11-18,Millennium,PAGSERV ALMOUROLTEC SERV INF I 23243/562277428,20.6,20.6,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-18,Millennium,COMPRA 6340 PTISP CONSTANCIA,18.83,18.83,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-17,Millennium,PAG BXVAL- 6340 VIAVERDE,1.47,1.47,0.0,Deslocações Bilal - Carro,1.05,Classificado automaticamente
+2025-11-17,Millennium,LEV ATM 6340 BCP   ALMADA        CC Sommer,20.0,20.0,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-17,Millennium,COMPRA 6340 CONTINENTE CAPARICA M.  CONTACTLESS,8.18,8.18,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-17,Millennium,COMPRA 6340 ALDI MTE CAPARICA CAPAR CONTACTLESS,17.0,17.0,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-17,Millennium,COMPRA 6340 BARRETO E FELIX LDA MON CONTACTLESS,7.49,7.49,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-17,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,50.0,50.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-11-17,Millennium,COMPRA 6340 PAD PORT ALMADA ALMADA  CONTACTLESS,8.74,8.74,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-17,Millennium,COMPRA 6340 BATIKANOS IV ALMADA,3.75,3.75,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-17,Millennium,COMPRA 6340 MA QUINTAS CAPARICA MON CONTACTLESS,10.54,10.54,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-14,Millennium,PAG BXVAL- 6340 VIAVERDE,4.47,4.47,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-11-14,Millennium,COMPRA 6340 LIDL MONTE CAPARICA CASAS VELHAS,17.49,17.49,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-14,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-13,Millennium,PAG BXVAL- 6340 VIAVERDE,0.6,0.6,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-11-13,Millennium,COMPRA 6340 LIDL LOUREL LOUREL,10.83,10.83,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-11-13,Millennium,TRF. P/O OSCAR COSTA - CIRURGIA MAXILO FA CIAL,330.22,0.0,330.22,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-13,Millennium,COMISSAO TRF MBWAY 50.00 APP MB WAY,0.1,0.1,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,COMPRA 6340 MA D NUNO A PEREIRA ALM CONTACTLESS,34.81,34.81,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-12,Millennium,LEV NUM MTM9472 ALMADA RENOVACAO,40.0,40.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-12,Millennium,COMPRA 6340 O MELHOR CROISSANT ALMA CONTACTLESS,2.8,2.8,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-12,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,COMISSAO TRF MBWAY 150.00 APP MB WAY,0.3,0.3,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,COMISSAO TRF MBWAY 130.00 APP MB WAY,0.26,0.26,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,COMISSAO TRF MBWAY 130.00 APP MB WAY,0.26,0.26,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,DD OCIDENTAL MR INCEN MR83055017 00167561389NOV,17.26,17.26,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-12,Millennium,TRF MB WAY P/ ENLIGHTENING ART ASSOC CULTURAL,50.0,50.0,0.0,Despesas Profissionais Bilal - Formação Bilal,0.9,Classificado automaticamente
+2025-11-11,Millennium,TRF MB WAY P/ DANIELA ALVES,150.0,150.0,0.0,Casa - Outros,0.85,Classificado automaticamente
+2025-11-11,Millennium,PAG SERV 11599/750027616 MUNICIPIO SINTRA,902.0,902.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-11,Millennium,TRF. P/O PASSION4PEOPLE LDA,1200.0,0.0,1200.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-11,Millennium,TRF MB WAY P/ MARTA ALEXANDRA CORREIA SILVA,130.0,130.0,0.0,Noah - Pensão de Alimentos,0.98,Classificado automaticamente
+2025-11-11,Millennium,TRF. P/O DANIELA ALVES,130.0,0.0,130.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-11,Millennium,TRF MB WAY P/ DANIELA ALVES,130.0,130.0,0.0,Casa - Outros,0.85,Classificado automaticamente
+2025-11-11,Millennium,TRF. P/O Bilal Machraa,150.0,0.0,150.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-11,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-11,Millennium,COMISSAO TRF MBWAY 150.00 APP MB WAY,0.3,0.3,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-11,Millennium,COMPRA 6340 Google YouTube Dublin IE,4.99,4.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-10,Millennium,TRF MB WAY P/ MARTA ALEXANDRA CORREIA SILVA,150.0,150.0,0.0,Noah - Pensão de Alimentos,0.98,Classificado automaticamente
+2025-11-10,Millennium,TRF. P/O BILAL MACHRAA,150.0,0.0,150.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-10,Millennium,PAG SERV 52217/822949118 LUSIADAS S.A.,7.5,7.5,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-10,Millennium,PAG SERV 52217/171353179 LUSIADAS S.A.,9.2,9.2,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-10,Millennium,COMPRA 6340 MA QUINTAS CAPARICA MON CONTACTLESS,6.24,6.24,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-07,Millennium,COMPRA 6340 CONTINENTE CAMP RASO271 CONTACTLESS,12.36,12.36,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-11-07,Millennium,COMPRA 6340 LIDL LOUREL LOUREL,29.28,29.28,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-07,Millennium,LEV ATM 6340 CGD   AGUALVA-CACEM Posto Prio - M,70.0,70.0,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-11-07,Millennium,TRF DE Apparte - Reserva de emergencia,40.0,0.0,40.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-07,Millennium,TRF. P/O DANIELA ALVES,70.0,0.0,70.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-07,Millennium,TRF MB WAY P/ ROSELENE NUNES FLORENCIO,25.4,25.4,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-07,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-07,Millennium,PAG.PRESTACAO N. 046 EMP.N.   3291574732,321.26,321.26,0.0,Casa - Renda Monte da Caparica,1.08,Classificado automaticamente
+2025-11-07,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,45.0,45.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-11-07,Millennium,TRF P/ ARTUR JOSE COELHO SEMIAO,600.0,600.0,0.0,Casa - Renda Fontanelas,1.05,Classificado automaticamente
+2025-11-06,Millennium,TRANSFERENCIA - VENCIMENTO,825.0,0.0,825.0,Receitas - Soluções IA,1.05,Classificado automaticamente
+2025-11-06,Millennium,TRF MB WAY P/ ANA PAULA FONTAINHAS,13.0,13.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-06,Millennium,COMPRA 6340 PADARIA DA PRAIA STO ANTONIO CAPARI,0.8,0.8,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-11-06,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,27.5,27.5,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-11-06,Millennium,COMPRA 6340 PADARIA DA PRAIA STO ANTONIO CAPARI,8.75,8.75,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-06,Millennium,Bilal Machraa,200.0,0.0,200.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-06,Millennium,IMPOSTO DO SELO,0.02,0.02,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-06,Millennium,COMISSAO TRF MBWAY 300.00 APP MB WAY,0.6,0.6,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-11-06,Millennium,DD ACP AUTO CLUB  00000778425    PT68101042,9.6,9.6,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-11-06,Millennium,DD IBERDROLA CLIE 410499220000   ES97N0108025H,213.17,213.17,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-05,Millennium,PAG BXVAL- 6340 VIAVERDE,3.2,3.2,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-11-05,Millennium,IMPOSTO SELO ART 17.3.4,0.24,0.24,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-05,Millennium,COM.MAN.CONTA PACOTE CLIENTE FREQUENTE   102025,6.0,6.0,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-11-05,Millennium,LEV ATM 6340 BCP   Almada        Pingo Doce -Ju,20.0,20.0,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-05,Millennium,COMPRA 6340 PAD PORT ALMADA ALMADA,15.4,15.4,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-05,Millennium,COMPRA 6340 JAF GYM LDA ALMADA      CONTACTLESS,65.9,65.9,0.0,Saúde - Ginásio,0.95,Classificado automaticamente
+2025-11-05,Millennium,TRF MB WAY P/ DANIELA ALVES,300.0,300.0,0.0,Casa - Outros,0.85,Classificado automaticamente
+2025-11-05,Millennium,COMPRA 6340 DECATHLON ALMADA 0000-0 CONTACTLESS,11.9,11.9,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-04,Millennium,TRF. P/O DRA  ANA SOFIA DE SOUSA DAVID,90.0,0.0,90.0,Receitas - Sessões Bilal,1.05,Classificado automaticamente
+2025-11-04,Millennium,TRF P/ HELENA ISABEL BAUTO MARQUES SA,60.0,60.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-04,Millennium,DD WIZINK BANK    20012899009    PT15100056,313.67,313.67,0.0,Créditos/Seguros Bilal - Wizink,1.08,Classificado automaticamente
+2025-11-03,Millennium,TRF MB WAY P/ NILTON JOAO MORAIS,15.0,15.0,0.0,Pessoal Bilal - Barbeiro,1.05,Classificado automaticamente
+2025-11-03,Millennium,Bilal Machraa,800.0,0.0,800.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-03,Millennium,COMPRA 6340 MA QUINTAS CAPARICA MONTE DA CAPARI,2.16,2.16,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-11-03,Millennium,DD OCIDENTAL SEG VIDA RKA0533652 00016882360NOV,14.65,14.65,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-11-03,Millennium,PAG.PRESTACAO N. 076 EMP.N.   1767315763,260.29,260.29,0.0,Casa - Renda Monte da Caparica,1.08,Classificado automaticamente
+2025-11-03,Millennium,TRF MB WAY P/ MARINA EMILIA FILIPE COSTA,7.0,7.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-03,Millennium,COMPRA 6340 PAD PORT ALMADA ALMADA,13.25,13.25,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-03,Millennium,TRF MB WAY P/ JOAQUIM COELHO,11.5,11.5,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-03,Millennium,COMPRA 6340 CENINTEL - SARRAZOLASINTRA,4.5,4.5,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-01,Revolut,Zoom,19.67,19.67,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-01,Revolut,Ponte 25 De Abril,2.15,2.15,0.0,Deslocações Bilal - Carro,1.05,Classificado automaticamente
+2025-11-01,Revolut,Papelaria Livros E C,13.31,13.31,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-01,Revolut,ALDI,43.56,43.56,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-01,Revolut,PRIO,1.8,1.8,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-01,Revolut,MadPizza,42.3,42.3,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-03,Revolut,Transferência de ANA RITA DE JESUS VEIGA,388.89,0.0,388.89,Receitas - Rendas Fontanelas,1.05,Classificado automaticamente
+2025-11-03,Revolut,To Bilal Machraa,800.0,800.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-03,Revolut,Stripe,2.63,2.63,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-02,Revolut,Google One,2.99,2.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-03,Revolut,Render,6.11,6.11,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-03,Revolut,Amazon,74.18,74.18,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-11-05,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,289.31,0.0,289.31,Receitas - Lifewave,1.08,Classificado automaticamente
+2025-11-05,Revolut,To Bilal Machraa,200.0,200.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-05,Revolut,Abacus.AI,17.49,17.49,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-05,Revolut,Decathlon,81.7,81.7,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-06,Revolut,Carregamento com cartão *8373,30.0,0.0,30.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-06,Revolut,Abacus.AI,26.18,26.18,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-06,Revolut,Abacus.AI,8.73,8.73,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-06,Revolut,Carregamento com cartão *8373,45.0,0.0,45.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-06,Revolut,Abacus.AI,34.8,34.8,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-09,Revolut,Railway,1.2,1.2,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-10,Revolut,R.C.Sanches Li LDA,9.95,9.95,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-11,Revolut,Transferência de ANA RITA DE JESUS VEIGA,450.0,0.0,450.0,Receitas - Rendas Fontanelas,1.05,Classificado automaticamente
+2025-11-11,Revolut,To Bilal Machraa,150.0,150.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-12,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,69.59,0.0,69.59,Receitas - Lifewave,0.98,Classificado automaticamente
+2025-11-12,Revolut,O Melhor Croissant da Minha Rua,11.7,11.7,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-11-13,Revolut,LifeWave,0.01,0.01,0.0,Saúde - Lifewave,0.98,Classificado automaticamente
+2025-11-13,Revolut,Lovable,21.62,21.62,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-13,Revolut,Apify,6.39,6.39,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-11-13,Revolut,LifeWave,330.22,330.22,0.0,Saúde - Lifewave,0.98,Classificado automaticamente
+2025-11-16,Revolut,Carregamento com cartão *8373,20.0,0.0,20.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-16,Revolut,Factory,17.3,17.3,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-17,Revolut,Microsoft,10.0,10.0,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-19,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,96.36,0.0,96.36,Receitas - Lifewave,1.08,Classificado automaticamente
+2025-11-19,Revolut,Carregamento com cartão *8373,178.0,0.0,178.0,Transferência Interna,0.98,Classificado automaticamente
+2025-11-19,Revolut,Barreto Felix,7.9,7.9,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-19,Revolut,YouTube,17.99,17.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-19,Revolut,Churrasq Germana,10.5,10.5,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-11-20,Revolut,Mercearia Cc Fontanela,11.6,11.6,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-11-22,Revolut,Coze,8.73,8.73,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-22,Revolut,Audible,13.05,13.05,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-24,Revolut,Crimson Nova,19.99,19.99,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-23,Revolut,Uber Eats,26.37,26.37,0.0,Deslocações Bilal - Transportes,1.02,Classificado automaticamente
+2025-11-24,Revolut,BP,66.88,66.88,0.0,Deslocações Bilal - Combustível,1.02,Classificado automaticamente
+2025-11-24,Revolut,Amazon,86.49,86.49,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-11-26,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,160.15,0.0,160.15,Receitas - Lifewave,1.08,Classificado automaticamente
+2025-11-26,Revolut,Abacus.AI,17.32,17.32,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-30,Revolut,Sp Zelthy,64.95,64.95,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-11-30,Revolut,OpenAI,23.0,23.0,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-11-29,Revolut,Metro Transportes do Sul,0.85,0.85,0.0,Deslocações Bilal - Transportes,0.92,Classificado automaticamente
+2025-11-30,Revolut,Metro Transportes do Sul,0.85,0.85,0.0,Deslocações Bilal - Transportes,0.92,Classificado automaticamente
+2025-12-31,Millennium,JUR DEVEDORES 01122025 A 31122025,0.09,0.09,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-31,Millennium,IMPOSTO DO SELO,0.02,0.02,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-31,Millennium,COMISSAO TRF MBWAY 250.00 APP MB WAY,0.5,0.5,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-31,Millennium,COMPRA 6340 BRISA AREAS SERVICO AVE CONTACTLESS,4.35,4.35,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-31,Millennium,TRF P/ Apparte - Mealheiro,200.0,200.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-31,Millennium,TRF MB WAY P/ HELDER FARIA,250.0,250.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-31,Millennium,COMISSAO TRF MBWAY 35.00 APP MB WAY,0.07,0.07,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-31,Millennium,TRF. P/O RITA RIBEIRO BELA,495.0,0.0,495.0,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-12-31,Millennium,TRF. P/O AMORIM ABIASSI FERREIRA,19.0,0.0,19.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-30,Millennium,TRF MB WAY P/ SILVIA CRISTINA SILVA TAVARES COS,35.0,35.0,0.0,Casa - Limpeza,1.05,Classificado automaticamente
+2025-12-30,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,92.0,92.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-12-30,Millennium,TRF DE casa e noah,100.0,0.0,100.0,Receitas - Renda Monte da Caparica,0.9,Classificado automaticamente
+2025-12-30,Millennium,COMPRA 6340 PSAO.LDA COSTA DE CAPAP CONTACTLESS,5.6,5.6,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-30,Millennium,IMPOSTO DO SELO,0.03,0.03,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-12-30,Millennium,CUSTO DE SERVICO INTERNACIONAL,0.85,0.85,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-12-30,Millennium,COMPRA 6340 CLAUDE.AI SUBSCRIPTION ANTHROPIC.CO,22.14,22.14,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-30,Millennium,CRED. 6340 FNAC ALMADA 2800-000 ALMADA,39.95,0.0,39.95,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-29,Millennium,PAG BXVAL- 6340 VIAVERDE,8.45,8.45,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-12-29,Millennium,COMPRA 6340 EST SERVICO BP OEIRAS OEIRAS,1.98,1.98,0.0,Deslocações Bilal - Combustível,0.92,Classificado automaticamente
+2025-12-29,Millennium,COMPRA 6340 EST SERVICO BP OEIRAS OEIRAS,4.28,4.28,0.0,Deslocações Bilal - Combustível,0.92,Classificado automaticamente
+2025-12-29,Millennium,AMAZON.COM SERVICES LLC,0.51,0.0,0.51,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-12-29,Millennium,AMAZON.COM SERVICES LLC,4.99,0.0,4.99,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-12-29,Millennium,MBW 6340 PAG-ESTADO      167125650603405,158.29,158.29,0.0,Casa - Renda Monte da Caparica,0.98,Classificado automaticamente
+2025-12-29,Millennium,TRF DE Apparte - Reserva de emergencia,60.0,0.0,60.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-29,Millennium,COMPRA 6340 CONTINENTE CAPARICA M.  CONTACTLESS,3.0,3.0,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-12-29,Millennium,COMPRA 6340 MA QUINTAS CAPARICA MONTE DA CAPARI,20.09,20.09,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-29,Millennium,COMPRA 6340 MTS METRO- TRANS SULAMORA,0.85,0.85,0.0,Deslocações Bilal - Transportes,0.92,Classificado automaticamente
+2025-12-29,Millennium,COMPRA 6340 MTS METRO- TRANS SULAMORA,0.85,0.85,0.0,Deslocações Bilal - Transportes,0.92,Classificado automaticamente
+2025-12-26,Millennium,PAG BXVAL- 6340 VIAVERDE,3.45,3.45,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-12-26,Millennium,COMPRA 6340 LIDL MONTE CAPARICA CAS CONTACTLESS,44.4,44.4,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-12-26,Millennium,LEV ATM 6340 MG    COSTA CAPARIC Papelaria O Ca,20.0,20.0,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-26,Millennium,COMPRA 6340 MBWAY - CINEMAS 1600-404 LISBOA,39.75,39.75,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-26,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-26,Millennium,COMPRA 6340 EST SERVICO AUCHAN ENERGY SA SINMEM,79.29,79.29,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-12-24,Millennium,COMPRA 6340 SG ARAUJO ODIVELAS      CONTACTLESS,5.1,5.1,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-24,Millennium,COMPRA 6340 PENSO LOGO FESTA ODIVELAS,5.98,5.98,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-24,Millennium,TRF. P/O ANA PAULA FONTAINHAS,11.0,0.0,11.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-24,Millennium,COMPRA 6340 FC R.C.SANCHES II ODIVE CONTACTLESS,36.0,36.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-24,Millennium,PAGSERV HIPAY SAS              12614/420752022,32.0,32.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-24,Millennium,COMPRA 6340 NUVEI LIMITED CARCAVELOS,24.75,24.75,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-24,Millennium,COMPRA 6340 BARRETO E FELIX LDA MONTE CAPARICA,13.59,13.59,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-24,Millennium,COMISSAO TRF MBWAY 40.00 APP MB WAY,0.08,0.08,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-24,Millennium,COMISSAO TRF MBWAY 60.00 APP MB WAY,0.12,0.12,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-24,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-24,Millennium,COMISSAO TRF MBWAY 80.00 APP MB WAY,0.16,0.16,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-24,Millennium,IMPOSTO DO SELO,0.02,0.02,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-24,Millennium,CUSTO DE SERVICO INTERNACIONAL,0.49,0.49,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-24,Millennium,COMPRA 6340 Audible BI1AN2R0 USD TC   0.8548494,12.78,12.78,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-24,Millennium,COMPRA 6340 CAFE RIJO PDM PT        CONTACTLESS,1.8,1.8,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-24,Millennium,COMPRA 6340 Google YouTube Dublin IE,17.99,17.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-24,Millennium,COMPRA 6340 EST SERVICO PA RANHOLAS NASCENTESIN,66.46,66.46,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-23,Millennium,COMPRA 6340 FNAC CASCAIS 2645-542 C CONTACTLESS,148.56,148.56,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-23,Millennium,COMPRA 6340 WORTEN MEGASTORE 2645-5 CONTACTLESS,8.94,8.94,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-23,Millennium,TRF MB WAY P/ STEPAN BATIR,40.0,40.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-23,Millennium,COMPRA 6340 CORETO FONTANELAS       CONTACTLESS,1.95,1.95,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-23,Millennium,TRF MB WAY P/ FLAVIANE CARREIRO PACHECO DE MORA,60.0,60.0,0.0,Casa - Limpeza,0.95,Classificado automaticamente
+2025-12-23,Millennium,TRF MB WAY P/ FLAVIANE CARREIRO PACHECO DE MORA,27.0,27.0,0.0,Casa - Limpeza,0.95,Classificado automaticamente
+2025-12-23,Millennium,TRF MB WAY P/ SILVIA CRISTINA SILVA TAVARES COS,80.0,80.0,0.0,Casa - Limpeza,0.95,Classificado automaticamente
+2025-12-23,Millennium,TRF. P/O ARQ CARLOS ALBERTO ASSUNCAO ALHO,150.0,0.0,150.0,Receitas - Rendas Fontanelas,1.05,Classificado automaticamente
+2025-12-23,Millennium,COMPRA 6340 CoolAres Foods E Goods  CONTACTLESS,13.0,13.0,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-23,Millennium,COMPRA 6340 Coop Aldea NAFARROS PT  CONTACTLESS,11.58,11.58,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-22,Millennium,PAG BXVAL- 6340 VIAVERDE,0.6,0.6,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-12-22,Millennium,COMPRA 6340 PORTO EDITORA PORTO,22.57,22.57,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-22,Millennium,COMPRA 6340 MERCEARIA D ASSAFORACOL CONTACTLESS,4.55,4.55,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-22,Millennium,COMPRA 6340 MERCEARIA D ASSAFORACOL CONTACTLESS,9.59,9.59,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-22,Millennium,COMPRA 6340 PTISP CONSTANCIA,15.74,15.74,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-22,Millennium,COMPRA 6340 SUPERMERCADO CAMARAOPRA CONTACTLESS,23.95,23.95,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-22,Millennium,COMPRA 6340 O MOINHO DE COLARES AZE CONTACTLESS,3.95,3.95,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-22,Millennium,COMPRA 6340 AUCHAN CAMPERA CARREGAD CONTACTLESS,11.13,11.13,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-12-22,Millennium,COMPRA 6340 GIOVANNI GALLI NIF 5176 CONTACTLESS,129.8,129.8,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-22,Millennium,COMPRA 6340 MERCEARIA FONTANELAS270 CONTACTLESS,17.66,17.66,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-22,Millennium,COMPRA 6340 EST SERVICO AUCHAN ENERGY SINTRAMEM,69.49,69.49,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-12-19,Millennium,COMISSAO TRF MBWAY 50.00 APP MB WAY,0.1,0.1,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-19,Millennium,TRF MB WAY P/ GONCALO FONSECA ALVES GOMES,50.0,50.0,0.0,Pessoal Bilal - Transferências,0.9,Classificado automaticamente
+2025-12-19,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-19,Millennium,COMISSAO TRF MBWAY 40.00 APP MB WAY,0.08,0.08,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-18,Millennium,TRF MB WAY P/ NILTON JOAO MORAIS,15.0,15.0,0.0,Pessoal Bilal - Barbeiro,1.05,Classificado automaticamente
+2025-12-18,Millennium,COMPRA 6340 PINGO DOCE ALMADA IIALMADA,10.94,10.94,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-12-18,Millennium,COMPRA 6340 MBWAY - FATURAS 1600-404 LISBOA,66.53,66.53,0.0,Casa - Internet (Net),1.0,Classificado automaticamente
+2025-12-18,Millennium,TRF. P/O BRUNO MIGUEL SALAZAR CUSTODIO   DOS S,120.0,0.0,120.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-18,Millennium,TRF MB WAY P/ MARTA ALEXANDRA CORREIA SILVA,40.0,40.0,0.0,Noah - Pensão de Alimentos,0.98,Classificado automaticamente
+2025-12-17,Millennium,IMPOSTO DO SELO,0.01,0.01,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-17,Millennium,COMISSAO TRF MBWAY 70.00 APP MB WAY,0.14,0.14,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-12-16,Millennium,COMPRA 6340 AM-ALVALADE MOBILE LISBOA,194.0,194.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-16,Millennium,TRF MB WAY P/ SILVIA CRISTINA SILVA TAVARES COS,70.0,70.0,0.0,Casa - Limpeza,0.95,Classificado automaticamente
+2025-12-16,Millennium,COMPRA 6340 IBERDROLA CLIENTES 1250-146 LISBOA,330.1,330.1,0.0,Casa - Luz,0.95,Classificado automaticamente
+2025-12-16,Millennium,TRF. P/O  STRONG EFFORT-CONSULTORIA   FORMACAO,800.0,0.0,800.0,Receitas - Soluções IA,1.05,Classificado automaticamente
+2025-12-16,Millennium,TRF. P/O  STRONG EFFORT-CONSULTORIA   FORMACAO,308.0,0.0,308.0,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-12-16,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,150.0,150.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.95,Classificado automaticamente
+2025-12-15,Millennium,PAG BXVAL- 6340 VIAVERDE,5.85,5.85,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-12-15,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-15,Millennium,COMPRA 6340 ALDI LOUREL SINTRA      CONTACTLESS,21.39,21.39,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-12-15,Millennium,TRANSFERENCIA - VENCIMENTO,943.5,0.0,943.5,Receitas - Soluções IA,1.05,Classificado automaticamente
+2025-12-12,Millennium,PAG BXVAL- 6340 VIAVERDE,1.75,1.75,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-12-12,Millennium,DD OCIDENTAL 00167561389 MULTIRISC H MR83055017,17.26,17.26,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-09,Millennium,IMPOSTO DO SELO,0.02,0.02,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-09,Millennium,COMISSAO TRF MBWAY 240.00 APP MB WAY,0.48,0.48,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-09,Millennium,COMPRA 6340 Google YouTube Dublin IE,4.99,4.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-12-08,Millennium,PAG BXVAL- 6340 VIAVERDE,12.25,12.25,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-12-08,Millennium,PAG.PRESTACAO N. 047 EMP.N.   3291574732,321.26,321.26,0.0,Casa - Renda Monte da Caparica,1.08,Classificado automaticamente
+2025-12-08,Millennium,TRF DE Apparte - Reserva de emergencia,30.0,0.0,30.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-08,Millennium,COMPRA 6340 SANTARENDIS SOC DIS SANTAREM,29.08,29.08,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-08,Millennium,TRF P/ ARTUR JOSE COELHO SEMIAO,600.0,600.0,0.0,Casa - Renda Fontanelas,1.05,Classificado automaticamente
+2025-12-08,Millennium,TRF. P/O HELENE KONOKOVI ABIASSI,900.0,0.0,900.0,Receitas - Soluções IA,1.05,Classificado automaticamente
+2025-12-08,Millennium,TRF MB WAY P/ MARTA ALEXANDRA CORREIA SILVA,240.0,240.0,0.0,Noah - Pensão de Alimentos,1.08,Classificado automaticamente
+2025-12-08,Millennium,TRF DE Apparte - Reserva de emergencia,50.0,0.0,50.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-05,Millennium,COMPRA 6340 MERCEARIA FONTANELAS2705-595 S J LA,7.24,7.24,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-05,Millennium,TRF. P/O HELENE KONOKOVI ABIASSI,100.0,0.0,100.0,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-12-05,Millennium,TRF P/ Apparte,20.0,20.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-05,Millennium,COMISSAO TRF MBWAY 40.00 APP MB WAY,0.08,0.08,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-05,Millennium,COMPRA 6340 PRIMARK ALMADA ALMADA PT,78.2,78.2,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-05,Millennium,DD JAF GYM UNIPES 00502302010069 PT48115370,35.9,35.9,0.0,Saúde - Ginásio,0.95,Classificado automaticamente
+2025-12-05,Millennium,DD JAF GYM UNIPES 00502302010069 PT48115370,35.9,35.9,0.0,Saúde - Ginásio,0.95,Classificado automaticamente
+2025-12-05,Millennium,DD ACP AUTO CLUB  00000778425    PT68101042,9.6,9.6,0.0,Deslocações Bilal - Carro,0.95,Classificado automaticamente
+2025-12-04,Millennium,LEV ATM 6340 BESCL CAPARICA      Farmacia Guerr,100.0,100.0,0.0,Saúde - Farmácia/Prod.Nat./Exames,0.9,Classificado automaticamente
+2025-12-04,Millennium,TRF MB WAY P/ NILTON JOAO MORAIS,15.0,15.0,0.0,Pessoal Bilal - Barbeiro,1.05,Classificado automaticamente
+2025-12-04,Millennium,TRF MB WAY P/ GONCALO FONSECA ALVES GOMES,5.0,5.0,0.0,Pessoal Bilal - Transferências,0.9,Classificado automaticamente
+2025-12-04,Millennium,TRF MB WAY P/ GONCALO FONSECA ALVES GOMES,40.0,40.0,0.0,Pessoal Bilal - Transferências,0.9,Classificado automaticamente
+2025-12-04,Millennium,COMPRA 6340 GOOGLE CLOUD GRR4XC CC GOOGLE.COMIE,32.02,32.02,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-12-04,Millennium,DD WIZINK BANK    20012899009    PT15100056,312.51,312.51,0.0,Créditos/Seguros Bilal - Wizink,1.08,Classificado automaticamente
+2025-12-03,Millennium,IMPOSTO SELO ART 17.3.4,0.24,0.24,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-03,Millennium,COM.MAN.CONTA PACOTE CLIENTE FREQUENTE   112025,6.0,6.0,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,0.95,Classificado automaticamente
+2025-12-03,Millennium,LEV ATM 6340 BCP   Almada        Pingo Doce - P,10.0,10.0,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-12-03,Millennium,TRF. P/O Bilal Machraa,500.0,0.0,500.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-03,Millennium,TRF MB WAY P/ SARA ISABEL PIRES ALVES,15.5,15.5,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-03,Millennium,COMPRA 6340 GOOGLE WORKSPACE BILAL CC GOOGLE.CO,1.08,1.08,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-03,Millennium,PAG.PRESTACAO N. 077 EMP.N.   1767315763,260.29,260.29,0.0,Casa - Renda Monte da Caparica,1.08,Classificado automaticamente
+2025-12-02,Millennium,TRF. P/O Bilal Machraa,600.0,0.0,600.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-02,Millennium,LEV ATM 6340 MG    Mucifal       Mercado Mucifa,10.0,10.0,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-02,Millennium,COMPRA 6340 MTS Contactless Amora P CONTACTLESS,0.85,0.85,0.0,Deslocações Bilal - Transportes,0.92,Classificado automaticamente
+2025-12-02,Millennium,COMPRA 6340 SALVATERRA C HOUSE SPA FOROS DE SAL,179.1,179.1,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-02,Millennium,IMPOSTO DO SELO,0.02,0.02,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-02,Millennium,CUSTO DE SERVICO INTERNACIONAL,0.4,0.4,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-02,Millennium,COMPRA 6340 GOFULLPAGE TRIAL USD TC   0.8641666,10.37,10.37,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-01,Millennium,AMAZON.COM SERVICES LLC,3.46,0.0,3.46,Receitas - Soluções IA,0.95,Classificado automaticamente
+2025-12-01,Millennium,AMAZON MEDIA EU S.A R.L.,6.19,0.0,6.19,Receitas - Soluções IA,1.05,Classificado automaticamente
+2025-12-01,Millennium,TRF MB WAY P/ ENLIGHTENING ART ASSOC CULTURAL,30.0,30.0,0.0,Despesas Profissionais Bilal - Formação Bilal,0.9,Classificado automaticamente
+2025-12-01,Millennium,DD OCIDENTAL 00016882360 VIDA CH     RKA0533652,14.65,14.65,0.0,Créditos/Seguros Bilal - Despesas Bancárias Bilal,1.05,Classificado automaticamente
+2025-12-01,Millennium,PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG,350.0,350.0,0.0,"Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",0.85,Classificado automaticamente
+2025-12-01,Millennium,TRF MB WAY P/ ANA ISA LOBATO CARVALHO FERNANDES,15.0,15.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-01,Millennium,TRF MB WAY P/ MARIA CONCEICAO VASCONCELOS SEMED,3.0,3.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-01,Millennium,COMPRA 6340 MA QUINTAS CAPARICA MONTE DA CAPARI,13.3,13.3,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-01,Millennium,LEV ATM 6340 BESCL CAPARICA      Farmacia Guerr,20.0,20.0,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-01,Millennium,COMPRA 6340 PAD PORT ALMADA ALMADA  CONTACTLESS,0.95,0.95,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-12-01,Revolut,Abacus.AI,8.64,8.64,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-02,Revolut,Revolut Bank UAB Sucursal em Portugal,173.0,0.0,173.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-02,Revolut,Revolut Bank UAB Sucursal em Portugal,70.06,0.0,70.06,Transferência Interna,0.98,Classificado automaticamente
+2025-12-02,Revolut,Carregamento de TIJS BERENS,387.83,0.0,387.83,Receitas - Rendas Fontanelas,1.05,Classificado automaticamente
+2025-12-02,Revolut,To Bilal Machraa,600.0,600.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-02,Revolut,Bagga,1.8,1.8,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-03,Revolut,Transferência de ANA RITA DE JESUS VEIGA,453.78,0.0,453.78,Receitas - Rendas Fontanelas,1.05,Classificado automaticamente
+2025-12-03,Revolut,To Bilal Machraa,500.0,500.0,0.0,Transferência Interna,0.98,Classificado automaticamente
+2025-12-03,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,47.04,0.0,47.04,Receitas - Lifewave,0.98,Classificado automaticamente
+2025-12-03,Revolut,Stripe,5.18,5.18,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-12-02,Revolut,Google One,2.99,2.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-03,Revolut,Grocery Store,25.3,25.3,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-03,Revolut,Render,6.03,6.03,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-12-05,Revolut,Apify,8.49,8.49,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-05,Revolut,Abacus.AI,17.26,17.26,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-05,Revolut,Apify,6.39,0.0,6.39,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-09,Revolut,Bolt,3.9,3.9,0.0,Deslocações Bilal - Transportes,1.02,Classificado automaticamente
+2025-12-09,Revolut,Railway,5.61,5.61,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",0.9,Classificado automaticamente
+2025-12-10,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,208.24,0.0,208.24,Receitas - Lifewave,0.98,Classificado automaticamente
+2025-12-10,Revolut,Pingo Doce,14.81,14.81,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-12-10,Revolut,Lovable,21.47,21.47,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-11,Revolut,TaskRabbit,36.17,36.17,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-11,Revolut,Google,10.99,10.99,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-11,Revolut,ProtonMail,9.99,9.99,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-12,Revolut,Google One,2.22,0.0,2.22,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-12,Revolut,ALDI,61.17,61.17,0.0,Casa - Supermercado Bilal,1.02,Classificado automaticamente
+2025-12-13,Revolut,Ma Quintas Caparica,26.94,26.94,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-12-14,Revolut,Creem.io,5.27,5.27,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-14,Revolut,Temu,23.77,23.77,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-14,Revolut,A Padaria Portuguesa,7.99,7.99,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-14,Revolut,Ma Quintas Caparica,9.75,9.75,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-14,Revolut,Ma Quintas Caparica,1.16,1.16,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-12-14,Revolut,Monte de Caparica,11.04,11.04,0.0,Casa - Supermercado Bilal,0.92,Classificado automaticamente
+2025-12-14,Revolut,Metro Transportes do Sul,0.85,0.85,0.0,Deslocações Bilal - Transportes,0.92,Classificado automaticamente
+2025-12-15,Revolut,Factory,0.58,0.58,0.0,Pessoal Bilal - Comer fora,0.88,Classificado automaticamente
+2025-12-17,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,132.77,0.0,132.77,Receitas - Lifewave,1.08,Classificado automaticamente
+2025-12-17,Revolut,YouTube,17.99,17.99,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-18,Revolut,A Padaria Portuguesa,6.6,6.6,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-19,Revolut,Lovable,21.45,21.45,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-22,Revolut,Coze,8.56,8.56,0.0,"Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",1.0,Classificado automaticamente
+2025-12-22,Revolut,Loom,0.86,0.86,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-23,Revolut,Transferência para GUILHERME PINTO RODRIGUES,50.0,50.0,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-23,Revolut,Mercearia Cc Fontanela,13.25,13.25,0.0,Pessoal Bilal - Comer fora,0.98,Classificado automaticamente
+2025-12-24,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,29.89,0.0,29.89,Receitas - Lifewave,0.98,Classificado automaticamente
+2025-12-23,Revolut,Eggcellent,11.4,11.4,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-26,Revolut,Manus AI,43.46,43.46,0.0,Nao Categorizado,0.0,Necessita revisão manual
+2025-12-31,Revolut,Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC,81.0,0.0,81.0,Receitas - Lifewave,0.98,Classificado automaticamente
