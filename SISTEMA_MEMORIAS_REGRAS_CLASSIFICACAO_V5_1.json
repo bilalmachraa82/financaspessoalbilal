@@ -1,0 +1,945 @@
+{
+  "sistema_memorias_regras": {
+    "metadata": {
+      "versao": "5.0",
+      "data_criacao": "2025-01-20",
+      "data_atualizacao": "2025-01-28",
+      "descricao": "Sistema completo expandido com categorias organizadas do utilizador - Preserva TODAS as categorias existentes + Novas categorizações",
+      "fontes": [
+        "dashboard_financeiro_bilal.py",
+        "corrigir_categorias_completas.py",
+        "decision_memory_wizink.json",
+        "septembro completo.csv",
+        "SISTEMA_MEMORIAS_REGRAS_CLASSIFICACAO.json",
+        "analise_categorias_setembro.py"
+      ],
+      "alteracoes_v5": {
+        "preservacao_completa": "TODAS as 96 categorias existentes mantidas",
+        "novas_categorias_organizadas": "Adicionadas categorias estruturadas do utilizador",
+        "aprendizagem_setembro": "Incorporadas lições da categorização de Setembro 2025",
+        "melhoria_regras": "Regras automáticas melhoradas baseadas nos padrões identificados",
+        "status": "Sistema expandido sem perda de conhecimento"
+      }
+    },
+    "categorias_existentes_preservadas": {
+      "despesas": {
+        "casa_habitacao": [
+          "Casa - Rendas Monte Caparica",
+          "Casa - Rendas Fontanelas",
+          "Casa - Supermercado Bilal",
+          "Casa - Luz/EDP",
+          "Casa - Net/Vodafone",
+          "Casa - Obras/Reparações",
+          "Casa - Mobiliário",
+          "Casa - Electrodomésticos",
+          "Casa - Outros",
+          "Casa - Limpeza",
+          "Casa - Renda Fontanelas",
+          "Casa - Renda Monte da Caparica",
+          "Casa - Internet (Net)",
+          "Casa - Luz"
+        ],
+        "pessoal_bilal": [
+          "Pessoal Bilal - Alimentação",
+          "Pessoal Bilal - Vestuário",
+          "Pessoal Bilal - Cuidados Pessoais",
+          "Pessoal Bilal - Lazer",
+          "Pessoal Bilal - Outros",
+          "Pessoal Bilal - Comer fora",
+          "Pessoal Bilal - Barbeiro"
+        ],
+        "creditos_seguros": [
+          "Créditos/Seguros Bilal - Prestação Carro",
+          "Créditos/Seguros Bilal - Seguro Carro",
+          "Créditos/Seguros Bilal - Seguro Saúde",
+          "Créditos/Seguros Bilal - Outros Seguros",
+          "Créditos/Seguros Bilal - Despesas Bancárias Bilal",
+          "Créditos/Seguros Bilal - Wizink",
+          "Créditos/Seguros Bilal - Pessoal Millennium"
+        ],
+        "deslocacoes": [
+          "Deslocações Bilal - Combustível",
+          "Deslocações Bilal - Portagens",
+          "Deslocações Bilal - Estacionamento",
+          "Deslocações Bilal - Transportes Públicos",
+          "Deslocações Bilal - Táxis/Uber",
+          "Deslocações Bilal - Transportes",
+          "Deslocações Bilal - Carro"
+        ],
+        "saude": [
+          "Saúde - Pruvit",
+          "Saúde - LifeWave",
+          "Saúde - Consultas Médicas",
+          "Saúde - Medicamentos",
+          "Saúde - Exames",
+          "Saúde - Dentista",
+          "Saúde - Outros",
+          "Saúde - Consultas Bilal",
+          "Saúde - Consultas Daniela",
+          "Saúde - Lifewave"
+        ],
+        "noah": [
+          "Noah - Alimentação",
+          "Noah - Vestuário",
+          "Noah - Saúde",
+          "Noah - Educação",
+          "Noah - Lazer",
+          "Noah - Outros",
+          "Noah - Pensão de Alimentos"
+        ],
+        "profissional": [
+          "Despesas Profissionais Bilal - Software",
+          "Despesas Profissionais Bilal - Formação",
+          "Despesas Profissionais Bilal - Material Escritório",
+          "Despesas Profissionais Bilal - Viagens Trabalho",
+          "Despesas Profissionais Bilal - Outros",
+          "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",
+          "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)"
+        ],
+        "outras": [
+          "Outros - Impostos",
+          "Outros - Multas",
+          "Outros - Doações",
+          "Outros - Presentes",
+          "Outros - Diversos",
+          "Nao Categorizado"
+        ]
+      },
+      "receitas": {
+        "profissionais": [
+          "Receitas - Sessões Bilal",
+          "Receitas - Limpezas Espaços",
+          "Receitas - Soluções IA",
+          "Receitas - Consultoria",
+          "Receitas - Formação"
+        ],
+        "rendas_propriedades": [
+          "Receitas - Rendas Fontanelas",
+          "Receitas - Rendas Monte Caparica",
+          "Receitas - Renda Monte da Caparica"
+        ],
+        "produtos_saude": [
+          "Receitas - Lifewave",
+          "Receitas - Pruvit"
+        ],
+        "outras": [
+          "Receitas - Vendas",
+          "Receitas - Juros",
+          "Receitas - Dividendos",
+          "Receitas - Outras"
+        ]
+      },
+      "especiais": [
+        "Transferência Interna"
+      ]
+    },
+    "categorias_organizadas_usuario": {
+      "despesas_casa": {
+        "nome": "Despesa Casa",
+        "subcategorias": [
+          "Renda Fontanelas",
+          "Renda Monte da Caparica",
+          "Supermercado Bilal",
+          "Supermercado Daniela",
+          "Luz",
+          "Net",
+          "Limpeza",
+          "Outros"
+        ]
+      },
+      "pessoal_bilal": {
+        "nome": "Pessoal Bilal",
+        "subcategorias": [
+          "Comer fora",
+          "Vestuário/calçado",
+          "Férias/viagens/Passeios",
+          "Livros/Cinema/Concertos",
+          "Donativos/Quotas",
+          "Barbeiro",
+          "Presentes",
+          "Outros"
+        ]
+      },
+      "creditos_seguros_bilal": {
+        "nome": "Créditos/Seguros Bilal",
+        "subcategorias": [
+          "Pessoal Millennium",
+          "Wizink",
+          "Seg vida",
+          "Cliente frequente",
+          "Despesas bancárias Bilal"
+        ]
+      },
+      "deslocacoes_bilal": {
+        "nome": "Deslocações Bilal",
+        "subcategorias": [
+          "Transportes",
+          "Via Verde",
+          "Carro",
+          "Combustível",
+          "Estacionamento",
+          "ACP"
+        ]
+      },
+      "saude": {
+        "nome": "Saúde",
+        "subcategorias": [
+          "Consultas Bilal",
+          "Consultas Daniela",
+          "Farmácia/Prod.Nat./Exames",
+          "Pruvit",
+          "Lifewave"
+        ]
+      },
+      "noah": {
+        "nome": "Noah",
+        "subcategorias": [
+          "Pensão de alimentos",
+          "Desporto",
+          "Consultas",
+          "Roupa",
+          "Outros"
+        ]
+      },
+      "despesas_profissionais_bilal": {
+        "nome": "Despesas Profissionais Bilal",
+        "subcategorias": [
+          "Mensalidade (Replit, GPT etc.)",
+          "Formação Bilal",
+          "Seg. Social Bilal",
+          "Produtos (Lifewave/Pruvit etc.)",
+          "Marketing digital",
+          "BNI"
+        ]
+      },
+      "receitas": {
+        "nome": "Receitas",
+        "subcategorias": [
+          "Sessões Bilal",
+          "Limpezas Espaços",
+          "Workshop TMD",
+          "Aulas Individuais",
+          "Soluções IA",
+          "Lifewave",
+          "Pruvit",
+          "Rendas Fontanelas",
+          "Electricidade Fontanelas",
+          "Renda Monte Caparica",
+          "Outros"
+        ]
+      }
+    },
+    "regras_classificacao_melhoradas": {
+      "receitas_sessoes": {
+        "categoria": "Receitas - Sessões Bilal",
+        "tipo": "credit",
+        "palavras_chave": [
+          "ana sofia",
+          "teresa raquel",
+          "julien",
+          "adelina",
+          "pascale",
+          "jeremy",
+          "sessao",
+          "terapia",
+          "consulta"
+        ],
+        "valores_tipicos": [
+          90.0,
+          80.0,
+          100.0
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Identificados novos clientes: Ana Sofia, Teresa, Julien, Adelina"
+      },
+      "receitas_limpezas": {
+        "categoria": "Receitas - Limpezas Espaços",
+        "tipo": "credit",
+        "palavras_chave": [
+          "limpeza",
+          "limpezas",
+          "cleaning"
+        ],
+        "valores_tipicos": [
+          120.0,
+          150.0,
+          100.0
+        ],
+        "confianca": 0.9,
+        "notas": "Serviços de limpeza pontuais"
+      },
+      "receitas_solucoes_ia": {
+        "categoria": "Receitas - Soluções IA",
+        "tipo": "credit",
+        "palavras_chave": [
+          "amazon media",
+          "amazon.com services llc",
+          "google cloud",
+          "transferencia - vencimento",
+          "1996 ponto infinito",
+          "pais da costa e esteves",
+          "rita ribeiro bela",
+          "helene konokovi abiassi",
+          "strong effort-consultoria"
+        ],
+        "valores_tipicos": [
+          6.23,
+          146.11,
+          688.0,
+          783.0,
+          825.0,
+          943.5
+        ],
+        "confianca": 0.95
+      },
+      "receitas_lifewave": {
+        "categoria": "Receitas - Lifewave",
+        "tipo": "credit",
+        "palavras_chave": [
+          "nium",
+          "international payout",
+          "lifewave",
+          "mme da silva de oliveira",
+          "maria eugenia",
+          "rosalia maria simoes sousa david",
+          "custodia dias"
+        ],
+        "valores_tipicos": [
+          7.4,
+          96.09,
+          133.0,
+          166.26,
+          258.24,
+          272.12,
+          363.62
+        ],
+        "confianca": 0.98,
+        "aprendizado_setembro": "Padrão NIUM = Lifewave, novos clientes identificados"
+      },
+      "receitas_pruvit": {
+        "categoria": "Receitas - Pruvit",
+        "tipo": "credit",
+        "palavras_chave": [
+          "nium",
+          "pruvit ventures"
+        ],
+        "valores_tipicos": [
+          143.32
+        ],
+        "confianca": 0.98,
+        "aprendizado_setembro": "Padrão NIUM + Pruvit Ventures identificado"
+      },
+      "receitas_fontanelas": {
+        "categoria": "Receitas - Rendas Fontanelas",
+        "tipo": "credit",
+        "palavras_chave": [
+          "artur jose",
+          "ana rita",
+          "tijs berens",
+          "carlos alberto",
+          "filipe miguel iones coutinho pires"
+        ],
+        "valores_tipicos": [
+          150.0,
+          173.0,
+          342.57,
+          407.37
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Múltiplos inquilinos identificados"
+      },
+      "receitas_electricidade_fontanelas": {
+        "categoria": "Receitas - Electricidade Fontanelas",
+        "tipo": "credit",
+        "palavras_chave": [
+          "filipe miguel iones coutinho pires"
+        ],
+        "valores_tipicos": [
+          95.49
+        ],
+        "confianca": 0.9
+      },
+      "receitas_monte_caparica": {
+        "categoria": "Receitas - Renda Monte da Caparica",
+        "tipo": "credit",
+        "palavras_chave": [
+          "casa e noah",
+          "renda monte"
+        ],
+        "valores_tipicos": [
+          200.0
+        ],
+        "confianca": 0.9,
+        "aprendizado_setembro": "Entrada relacionada com Noah identificada"
+      },
+      "casa_renda_fontanelas": {
+        "categoria": "Casa - Renda Fontanelas",
+        "tipo": "debit",
+        "palavras_chave": [
+          "artur jose coelho semiao"
+        ],
+        "valores_tipicos": [
+          600.0
+        ],
+        "confianca": 0.95,
+        "notas": "Pagamento mensal ao senhorio Artur"
+      },
+      "casa_prestacao_monte": {
+        "categoria": "Casa - Renda Monte da Caparica",
+        "tipo": "debit",
+        "palavras_chave": [
+          "pag.prestacao",
+          "mbw 6340 pag-estado",
+          "emp.n.",
+          "3291574732",
+          "1767315763"
+        ],
+        "valores_tipicos": [
+          260.29,
+          321.26
+        ],
+        "confianca": 0.98,
+        "aprendizado_setembro": "Múltiplas prestações identificadas"
+      },
+      "casa_supermercado": {
+        "categoria": "Casa - Supermercado Bilal",
+        "tipo": "debit",
+        "palavras_chave": [
+          "continente",
+          "pingo doce",
+          "lidl",
+          "aldi",
+          "auchan",
+          "celeiro",
+          "temu.com",
+          "amazon",
+          "spar",
+          "sintra sia",
+          "coop agricola sintra",
+          "inicipump",
+          "inicipump canalizacao",
+          "monte de caparica",
+          "monde de caparica"
+        ],
+        "valores_tipicos": [
+          1.98,
+          3.87,
+          9.14,
+          15.31,
+          22.36,
+          28.86,
+          34.6,
+          36.22,
+          37.57,
+          39.44,
+          49.96,
+          70.92
+        ],
+        "confianca": 0.92,
+        "aprendizado_setembro": "Novos estabelecimentos: ALDI, Celeiro, SPAR, TEMU, Amazon"
+      },
+      "casa_luz": {
+        "categoria": "Casa - Luz",
+        "tipo": "debit",
+        "palavras_chave": [
+          "iberdrola clientes"
+        ],
+        "valores_tipicos": [
+          91.37
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Iberdrola identificada como fornecedor de luz"
+      },
+      "casa_internet": {
+        "categoria": "Casa - Internet (Net)",
+        "tipo": "debit",
+        "palavras_chave": [
+          "mbway - faturas"
+        ],
+        "valores_tipicos": [
+          63.93
+        ],
+        "confianca": 0.9,
+        "aprendizado_setembro": "Pagamento via MBWAY identificado"
+      },
+      "casa_limpeza": {
+        "categoria": "Casa - Limpeza",
+        "tipo": "debit",
+        "palavras_chave": [
+          "silvia cristina silva tavares",
+          "fabiana sofia pinto sousa",
+          "flaviane carreiro",
+          "flaviane"
+        ],
+        "valores_tipicos": [
+          40.0
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Funcionária de limpeza Sílvia identificada"
+      },
+      "casa_outros": {
+        "categoria": "Casa - Outros",
+        "tipo": "debit",
+        "palavras_chave": [
+          "feira dos tecidos",
+          "note sintra lourel",
+          "trf mb way p/ daniela alves",
+          "trf mb way p/ gustavo marreiros",
+          "monte de caparica"
+        ],
+        "valores_tipicos": [
+          1.04
+        ],
+        "confianca": 0.85
+      },
+      "pessoal_comer_fora": {
+        "categoria": "Pessoal Bilal - Comer fora",
+        "tipo": "debit",
+        "palavras_chave": [
+          "ziggy cocktails",
+          "barreto e felix",
+          "ma quintas",
+          "mercearia fontanelas",
+          "mercearia cc fontanela",
+          "mercearia d assafora",
+          "estacao do pragal",
+          "figueiredo e andrade",
+          "figueiredo andrade",
+          "sheriffs stake",
+          "ma fabrica",
+          "po de cafe",
+          "f inatel",
+          "cafe coreto",
+          "coreto fontanelas",
+          "h m caneira",
+          "eugenio barreiro",
+          "yang xiaorong",
+          "churrasq germana",
+          "coolares",
+          "factory",
+          "enigmas gulosos",
+          "bagga",
+          "honest greens",
+          "a padaria portuguesa",
+          "o melhor croissant",
+          "padaria da praia",
+          "pastelaria suica",
+          "street smash burger",
+          "vanila colares",
+          "pad port",
+          "lev atm",
+          "ana filipa antunes tereso"
+        ],
+        "valores_tipicos": [
+          1.8,
+          2.78,
+          2.83,
+          2.95,
+          3.9,
+          4.59,
+          5.45,
+          5.7,
+          5.72,
+          5.75,
+          5.8,
+          6.06,
+          7.8,
+          8.83,
+          10.0,
+          14.65,
+          14.78,
+          19.2,
+          33.8
+        ],
+        "confianca": 0.88,
+        "aprendizado_setembro": "Múltiplos restaurantes e cafés identificados",
+        "aprendizado_outubro": "Novos estabelecimentos: Churrasq Germana, Coolares, Factory, Enigmas Gulosos, Bagga"
+      },
+      "pessoal_barbeiro": {
+        "categoria": "Pessoal Bilal - Barbeiro",
+        "tipo": "debit",
+        "palavras_chave": [
+          "nicklas peyk",
+          "nilton joao morais"
+        ],
+        "valores_tipicos": [
+          10.0,
+          15.0
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Dois barbeiros identificados: Nicklas e Nilton"
+      },
+      "pessoal_transferencias_goncalo": {
+        "categoria": "Pessoal Bilal - Transferências",
+        "tipo": "debit",
+        "palavras_chave": [
+          "trf mb way p/ goncalo fonseca alves gomes"
+        ],
+        "confianca": 0.9
+      },
+      "deslocacoes_transportes": {
+        "categoria": "Deslocações Bilal - Transportes",
+        "tipo": "debit",
+        "palavras_chave": [
+          "bolt",
+          "uber",
+          "sintra psi tvm",
+          "tvm",
+          "fertagus",
+          "cp comboios",
+          "cp paris",
+          "est servico lj m24 oriente",
+          "instituto registos not",
+          "estacao sete rios",
+          "estacao entrecampos",
+          "estacao do pragal",
+          "metro transportes do sul",
+          "mts metro- trans sul",
+          "mts metro- trans sulamora",
+          "mts contactless"
+        ],
+        "valores_tipicos": [
+          1.47,
+          2.5,
+          3.0,
+          3.91,
+          5.0,
+          5.58,
+          6.15,
+          7.98,
+          14.45,
+          28.6
+        ],
+        "confianca": 0.92,
+        "aprendizado_setembro": "Bolt e transportes públicos identificados"
+      },
+      "deslocacoes_carro": {
+        "categoria": "Deslocações Bilal - Carro",
+        "tipo": "debit",
+        "palavras_chave": [
+          "viaverde",
+          "acp auto club",
+          "a9 motorway",
+          "a16",
+          "ponte 25 de abril",
+          "portugaltolls"
+        ],
+        "valores_tipicos": [
+          0.95,
+          1.47,
+          2.15,
+          28.6,
+          61.95
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Via Verde e ACP identificados",
+        "aprendizado_outubro": "Adicionadas portagens específicas: A9, A16, Ponte 25 Abril, PortugalTolls"
+      },
+      "deslocacoes_combustivel": {
+        "categoria": "Deslocações Bilal - Combustível",
+        "tipo": "debit",
+        "palavras_chave": [
+          "bp",
+          "galp",
+          "repsol",
+          "cepsa",
+          "eurobudget",
+          "pa trafaria"
+        ],
+        "valores_tipicos": [
+          66.40,
+          50.0,
+          70.0
+        ],
+        "confianca": 0.92,
+        "aprendizado_outubro": "Nova regra criada para combustível identificado em Outubro"
+      },
+      "saude_farmacia": {
+        "categoria": "Saúde - Farmácia/Prod.Nat./Exames",
+        "tipo": "debit",
+        "palavras_chave": [
+          "farmacia"
+        ],
+        "confianca": 0.9
+      },
+      "saude_consultas_bilal": {
+        "categoria": "Saúde - Consultas Bilal",
+        "tipo": "debit",
+        "palavras_chave": [
+          "clin medi dent",
+          "natalia raquel da costa geraldo",
+          "mbway-trf p2p p/004554"
+        ],
+        "valores_tipicos": [
+          31.42,
+          80.0,
+          175.0
+        ],
+        "confianca": 0.85,
+        "aprendizado_setembro": "Clínica dentária e consulta via MBWAY"
+      },
+      "saude_consultas_daniela": {
+        "categoria": "Saúde - Consultas Daniela",
+        "tipo": "debit",
+        "palavras_chave": [
+          "oculista do bairro"
+        ],
+        "valores_tipicos": [
+          25.0
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Oculista para Daniela identificado"
+      },
+      "saude_pruvit": {
+        "categoria": "Saúde - Pruvit",
+        "tipo": "debit",
+        "palavras_chave": [
+          "pruvit.com"
+        ],
+        "valores_tipicos": [
+          56.05
+        ],
+        "confianca": 0.98,
+        "aprendizado_setembro": "Compra direta site Pruvit"
+      },
+      "saude_lifewave": {
+        "categoria": "Saúde - Lifewave",
+        "tipo": "debit",
+        "palavras_chave": [
+          "lifewave",
+          "angela carla lemos",
+          "lifewave athenry"
+        ],
+        "valores_tipicos": [
+          96.09
+        ],
+        "confianca": 0.98,
+        "aprendizado_setembro": "Compra direta LifeWave"
+      },
+      "saude_ginasio_jaf": {
+        "categoria": "Saúde - Ginásio",
+        "tipo": "debit",
+        "palavras_chave": [
+          "dd jaf gym unipes",
+          "jaf gym",
+          "unipes"
+        ],
+        "confianca": 0.95
+      },
+      "noah_pensao": {
+        "categoria": "Noah - Pensão de Alimentos",
+        "tipo": "debit",
+        "palavras_chave": [
+          "marta alexandra correia silva"
+        ],
+        "valores_tipicos": [
+          220.0
+        ],
+        "confianca": 0.98,
+        "aprendizado_setembro": "Beneficiária da pensão identificada"
+      },
+      "profissional_mensalidades": {
+        "categoria": "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",
+        "tipo": "debit",
+        "palavras_chave": [
+          "coze",
+          "abacus.ai",
+          "claude.ai",
+          "anthropic.co",
+          "apify",
+          "lovable",
+          "openai",
+          "openrouter",
+          "railway",
+          "render",
+          "stripe",
+          "google cloud",
+          "google youtube",
+          "audible",
+          "mestre gaucho",
+          "microsoft",
+          "youtube",
+          "sqlgpt.cn",
+          "google one",
+          "amazon",
+          "supabase",
+          "zoom",
+          "https hipay.com"
+        ],
+        "valores_tipicos": [
+          1.64,
+          1.72,
+          2.99,
+          8.51,
+          8.55,
+          8.62,
+          10.0,
+          11.07,
+          12.73,
+          12.9,
+          17.16,
+          17.99,
+          19.67,
+          25.32
+        ],
+        "confianca": 0.9,
+        "aprendizado_setembro": "Múltiplas subscrições SaaS identificadas"
+      },
+      "profissional_formacao": {
+        "categoria": "Despesas Profissionais Bilal - Formação Bilal",
+        "tipo": "debit",
+        "palavras_chave": [
+          "enlightening art assoc cultural"
+        ],
+        "confianca": 0.9
+      },
+      "profissional_produtos": {
+        "categoria": "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",
+        "tipo": "debit",
+        "palavras_chave": [
+          "pag serv 20394",
+          "banco comercial portug"
+        ],
+        "valores_tipicos": [
+          133.0
+        ],
+        "confianca": 0.85,
+        "aprendizado_setembro": "Pagamento produtos via banco identificado"
+      },
+      "creditos_wizink": {
+        "categoria": "Créditos/Seguros Bilal - Wizink",
+        "tipo": "debit",
+        "palavras_chave": [
+          "prestacao credito adicional",
+          "juros",
+          "dd wizink bank",
+          "pagamento por debito direto"
+        ],
+        "valores_tipicos": [
+          115.08,
+          77.63,
+          273.13
+        ],
+        "confianca": 0.98,
+        "aprendizado_setembro": "Prestações e juros Wizink identificados"
+      },
+      "despesas_bancarias": {
+        "categoria": "Créditos/Seguros Bilal - Despesas Bancárias Bilal",
+        "tipo": "debit",
+        "palavras_chave": [
+          "arredondamento de trocos",
+          "comissao trf mbway",
+          "imposto do selo",
+          "imposto selo",
+          "comissao de servico",
+          "comissao de processamento",
+          "custo de servico internacional",
+          "dd ocidental",
+          "com.man.conta pacote"
+        ],
+        "valores_tipicos": [
+          0.01,
+          0.02,
+          0.08,
+          0.1,
+          0.12,
+          0.18,
+          0.23,
+          0.26,
+          0.3,
+          0.32,
+          0.44,
+          3.1,
+          8.0,
+          9.53,
+          10.52,
+          14.65,
+          17.26
+        ],
+        "confianca": 0.95,
+        "aprendizado_setembro": "Múltiplas taxas e arredondamentos identificados"
+      },
+      "transferencias_internas": {
+        "categoria": "Transferência Interna",
+        "tipo": "both",
+        "palavras_chave": [
+          "bilal machraa",
+          "to bilal machraa",
+          "trf p/ apparte",
+          "trf de apparte",
+          "transferencia de utilizador revolut",
+          "revolut bank uab sucursal em portugal",
+          "carregamento com cartão",
+          "carregamento com cartao",
+          "trf. p/o bilal machraa",
+          "trf. p/o daniela alves",
+          "to daniela sofia alves",
+          "mbway-trf p2p p/003300"
+        ],
+        "confianca": 0.98,
+        "exclusao_calculos": true,
+        "aprendizado_setembro": "Padrões de transferências internas bem definidos"
+      }
+    },
+    "melhorias_identificadas_setembro": {
+      "problemas_resolvidos": [
+        "Identificação clara de receitas LifeWave via NIUM",
+        "Distinção entre múltiplos inquilinos Fontanelas",
+        "Reconhecimento de novos estabelecimentos comerciais",
+        "Padrões de subscrições SaaS bem definidos",
+        "Transferências internas claramente identificadas"
+      ],
+      "areas_melhoria": [
+        "Casa - Outros: 4 transferências MBWAY Daniela podem ser reclassificadas",
+        "Receitas - Outros: 2 transações específicas precisam categorias próprias",
+        "Consolidação de arredondamentos Revolut (24 transações)",
+        "Uniformização de categorias duplicadas (Renda vs Rendas)"
+      ],
+      "sugestoes_implementacao": [
+        "Criar regra específica para MBWAY Daniela Alves",
+        "Separar arredondamentos < €0.50 em categoria própria ou excluir",
+        "Unificar categorias de renda por propriedade",
+        "Melhorar detecção de receitas de reembolso/devolução"
+      ]
+    },
+    "configuracoes_sistema": {
+      "exclusoes_calculos": [
+        "Transferência Interna"
+      ],
+      "ordenacao_disponivel": [
+        "Data",
+        "Valor",
+        "Débito",
+        "Crédito",
+        "Categoria"
+      ],
+      "filtros_disponivel": [
+        "Todos",
+        "Débitos",
+        "Créditos"
+      ],
+      "backup_automatico": true,
+      "validacao_interativa": true,
+      "audio_indiana_jones": true,
+      "design_glassmorphism": true,
+      "aprendizagem_continua": true,
+      "preservacao_conhecimento": true
+    },
+    "estatisticas_sistema": {
+      "total_categorias_existentes": 96,
+      "total_categorias_organizadas": 8,
+      "categorias_despesas": 42,
+      "categorias_receitas": 11,
+      "regras_ativas": 27,
+      "regras_melhoradas": 11,
+      "transacoes_setembro_analisadas": 185,
+      "transacoes_outubro_analisadas": 211,
+      "transferencias_internas_identificadas": 26,
+      "taxa_categorizacao_setembro": "95.7%",
+      "taxa_categorizacao_outubro_inicial": "55.0%",
+      "conhecimento_preservado": "100%",
+      "ultima_atualizacao": "2025-01-09",
+      "melhorias_outubro": "Adicionadas portagens específicas, nova regra combustível, novos restaurantes"
+    }
+  }
+}

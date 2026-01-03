@@ -1,0 +1,39 @@
+# Financas Pessoais - Dependências Python
+# Gerado automaticamente em 2025-01-15
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Dashboard & Visualização
+streamlit>=1.28.0
+plotly>=5.17.0
+matplotlib>=3.7.0
+
+# Terminal UI & Rich Output
+rich>=13.0.0
+colorama>=0.4.6
+
+# PDF Processing
+camelot-py[cv]>=0.11.0
+PyPDF2>=3.0.0
+
+# Web & HTML
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Encoding Detection
+chardet>=5.2.0
+
+# Utilities
+python-dateutil>=2.8.0
+openpyxl>=3.1.0  # Para Excel se necessário
+pyyaml>=6.0.0  # Para configurações YAML
+
+# Optional - Audio (Indiana Jones theme)
+# pygame>=2.5.0  # Descomente se quiser áudio
+
+# Development & Testing (opcional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0

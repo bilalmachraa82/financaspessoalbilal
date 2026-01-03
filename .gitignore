@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+streamlit.log
+streamlit_v7.log
+
+# Node.js (se existir)
+node_modules/
+package-lock.json
+
+# Dados sensíveis (CSV com dados pessoais)
+data/raw/*.pdf
+data/raw/*.csv
+data/processed/*.csv
+
+# Relatórios temporários
+*.json
+relatorio_*.md
+relatorio_*.txt
+relatorio_*.json
+totais_*.txt
+totais_*.json
+teste_*.py
+testar_*.py
+debug_*.py
+
+# Arquivos temporários de teste
+transacoes_teste_*.csv
+transacoes_para_validar.csv
+resumo_*.csv
+
+# Outros arquivos temporários
+*.backup
+*.old
+*.tmp
