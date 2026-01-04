@@ -47,14 +47,16 @@ streamlit_v7.log
 node_modules/
 package-lock.json
 
-# Dados sensíveis (CSV com dados pessoais)
+# Dados sensíveis (PDFs)
 data/raw/*.pdf
-data/raw/*.csv
+
+# Dados bancários (CSVs com dados pessoais)
 data/processed/*.csv
+data/raw/*.csv
+data/**/*.csv
 
 # Relatórios temporários
-*.json
-relatorio_*.md
+relatorio_*.json
 relatorio_*.txt
 relatorio_*.json
 totais_*.txt

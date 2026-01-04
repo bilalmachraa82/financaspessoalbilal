@@ -1,0 +1,1257 @@
+{
+  "estrutura_oficial": {
+    "Casa": [
+      "Casa - Renda Fontanelas",
+      "Casa - Renda Monte da Caparica",
+      "Casa - Supermercado Bilal",
+      "Casa - Supermercado Daniela",
+      "Casa - Luz",
+      "Casa - Internet (Net)",
+      "Casa - Limpeza",
+      "Casa - Outros"
+    ],
+    "Pessoal Bilal": [
+      "Pessoal Bilal - Comer fora",
+      "Pessoal Bilal - Vestuário/calçado",
+      "Pessoal Bilal - Férias/viagens/Passeios",
+      "Pessoal Bilal - Livros/Cinema/Concertos",
+      "Pessoal Bilal - Donativos/Quotas",
+      "Pessoal Bilal - Barbeiro",
+      "Pessoal Bilal - Presentes",
+      "Pessoal Bilal - Outros"
+    ],
+    "Créditos/Seguros Bilal": [
+      "Créditos/Seguros Bilal - Pessoal Millennium",
+      "Créditos/Seguros Bilal - Wizink",
+      "Créditos/Seguros Bilal - Seg vida",
+      "Créditos/Seguros Bilal - Cliente frequente",
+      "Créditos/Seguros Bilal - Despesas bancárias Bilal"
+    ],
+    "Deslocações Bilal": [
+      "Deslocações Bilal - Transportes",
+      "Deslocações Bilal - Via Verde",
+      "Deslocações Bilal - Carro",
+      "Deslocações Bilal - Combustível",
+      "Deslocações Bilal - Estacionamento",
+      "Deslocações Bilal - ACP"
+    ],
+    "Saúde": [
+      "Saúde - Consultas Bilal",
+      "Saúde - Consultas Daniela",
+      "Saúde - Farmácia/Prod.Nat./Exames",
+      "Saúde - Pruvit",
+      "Saúde - Lifewave"
+    ],
+    "Noah": [
+      "Noah - Pensão de alimentos",
+      "Noah - Desporto",
+      "Noah - Consultas",
+      "Noah - Roupa",
+      "Noah - Outros"
+    ],
+    "Despesas Profissionais Bilal": [
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)",
+      "Despesas Profissionais Bilal - Formação Bilal",
+      "Despesas Profissionais Bilal - Seg. Social Bilal",
+      "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)",
+      "Despesas Profissionais Bilal - Marketing digital",
+      "Despesas Profissionais Bilal - BNI"
+    ],
+    "Receitas": [
+      "Receitas - Sessões Bilal",
+      "Receitas - Limpezas Espaços",
+      "Receitas - Workshop TMD",
+      "Receitas - Aulas Individuais",
+      "Receitas - Soluções IA",
+      "Receitas - Lifewave",
+      "Receitas - Pruvit",
+      "Receitas - Rendas Fontanelas",
+      "Receitas - Electricidade Fontanelas",
+      "Receitas - Renda Monte da Caparica",
+      "Receitas - Outros"
+    ]
+  },
+  "regras_aprendidas": {
+    "Deslocações Bilal - Transportes": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 10,
+          "valor_total": 88.22,
+          "descricoes_comuns": [
+            "Bolt",
+            "COMPRA 6340 SINTRA PSI TVM LISBOA   CONTACTLESS",
+            "PAG BXVAL- 6340 VIAVERDE",
+            "LEV ATM 6340 BESCL CAPARICA      NOVO BANCO S.A",
+            "COMPRA 6340 ESTACAO SETE RIOS 1500 LISBOA"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 1.0
+    },
+    "Créditos/Seguros Bilal - Despesas Bancárias Bilal": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 45,
+          "valor_total": 56.75,
+          "descricoes_comuns": [
+            "Arredondamento de trocos por RevPoints",
+            "IMPOSTO DO SELO",
+            "OImposto do Selo",
+            "OComissão de Serviço",
+            "OComissão de processamento internacional"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 1.0
+    },
+    "Transferência Interna": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 26,
+          "valor_total": -262.0,
+          "descricoes_comuns": [
+            "To Bilal Machraa",
+            "Bilal Machraa",
+            "TRF P/ Apparte",
+            "Transferência de utilizador Revolut",
+            "TRF. P/O DANIELA ALVES"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 1.0
+    },
+    "Casa - Supermercado Bilal": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 16,
+          "valor_total": 398.22,
+          "descricoes_comuns": [
+            "COMPRA 6340 ALDEA JANAS",
+            "COMPRA 6340 ALDI MTE CAPARICA CAPARICA",
+            "COMPRA 6340 CONTINENTE CAPARICA M. CAPARICA",
+            "COMPRA 6340 SPAR LAMPAS S J LAMPAS  CONTACTLESS",
+            "Pingo Doce"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 1.0
+    },
+    "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 16,
+          "valor_total": 181.85999999999999,
+          "descricoes_comuns": [
+            "Coze",
+            "Abacus.AI",
+            "SQLGPT.CN SINGAPORE",
+            "COMPRA 6340 GOOGLE YOUTUBE G.CO HELPPAY IE",
+            "Mestre Gaucho Jogos"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 1.0
+    },
+    "Casa - Outros": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 5,
+          "valor_total": 355.7,
+          "descricoes_comuns": [
+            "TRF MB WAY P/ DANIELA ALVES",
+            "TRF MB WAY P/ HERMINIA MARIA MATOS CAMACHO",
+            "COMPRA 6340 YANG XIAORONG 2705-297 COLARES"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.5
+    },
+    "Receitas - Sessões Bilal": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 4,
+          "valor_total": -360.0,
+          "descricoes_comuns": [
+            "TRF MB WAY DE DRA ANA SOFIA SOUSA DAVID",
+            "TRF MB WAY DE  TERESA RAQUEL PRUDENCIO",
+            "TRF. P/O JULIEN ODOT",
+            "TRF. P/O ADELINA MARIA MONTEIRO BRANCO"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.4
+    },
+    "Pessoal Bilal - Comer fora": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 25,
+          "valor_total": 389.59,
+          "descricoes_comuns": [
+            "COMPRA 6340 PO DE CAFE 2725-019 ALGUEIRAO",
+            "COMPRA 6340 LIDL AGRADECE 1070-060 EST.S.RIOS",
+            "COMPRA 6340 MERCEARIA FONTANELAS2705-595 S J LA",
+            "COMPRA 6340 SHERIFFS STAKE HOUSE100 CONTACTLESS",
+            "LEV ATM 6340 CGD   Praia das Mac Centro Art Pra"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 1.0
+    },
+    "Receitas - Rendas Fontanelas": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 3,
+          "valor_total": -899.94,
+          "descricoes_comuns": [
+            "TRF. P/O ARQ CARLOS ALBERTO ASSUNCAO ALHO",
+            "Transferência de ANA RITA DE JESUS VEIGA",
+            "Carregamento de TIJS BERENS"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.3
+    },
+    "Receitas - Lifewave": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 7,
+          "valor_total": -1296.7299999999998,
+          "descricoes_comuns": [
+            "Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE LIFEWAVE INC",
+            "TRF. P/O MARIA EUGENIA SILVA O SANTOS FERREIRA",
+            "TRF. P/O CUSTODIA DIAS COELHO ALMEIDA"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.7
+    },
+    "Pessoal Bilal - Barbeiro": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 3,
+          "valor_total": 40.0,
+          "descricoes_comuns": [
+            "TRF MB WAY P/ NILTON JOAO MORAIS",
+            "TRF MB WAY P/ NICKLAS PEYK MILLGAARD"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.3
+    },
+    "Receitas - Renda Monte da Caparica": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": -200.0,
+          "descricoes_comuns": [
+            "TRF DE casa e noah"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Casa - Limpeza": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 40.0,
+          "descricoes_comuns": [
+            "TRF MB WAY P/ SILVIA CRISTINA SILVA TAVARES COS"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Receitas - Pruvit": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": -143.32,
+          "descricoes_comuns": [
+            "Carregamento de NIUM * INTERNATIONAL PAYOUT SYSTEMS INC RE PRUVIT VENTURES INC"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Deslocações Bilal - Carro": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 3,
+          "valor_total": 64.37,
+          "descricoes_comuns": [
+            "PAG BXVAL- 6340 VIAVERDE",
+            "DD ACP AUTO CLUB  00000778425    PT68101042"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.3
+    },
+    "Casa - Internet (Net)": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 63.93,
+          "descricoes_comuns": [
+            "COMPRA 6340 MBWAY - FATURAS 1600-404 LISBOA"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Créditos/Seguros Bilal - Wizink": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 4,
+          "valor_total": 192.70999999999998,
+          "descricoes_comuns": [
+            "OJuros",
+            "Prestação Crédito Adicional",
+            "DD WIZINK BANK    20012899009    PT15100056",
+            "PPagamento por débito direto"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.4
+    },
+    "Casa - Luz": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 91.37,
+          "descricoes_comuns": [
+            "COMPRA 6340 IBERDROLA CLIENTES 1250-146 LISBOA"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 133.0,
+          "descricoes_comuns": [
+            "PAG SERV 20394/050598373 BANCO COMERCIAL PORTUG"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Receitas - Outros": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 2,
+          "valor_total": -301.61,
+          "descricoes_comuns": [
+            "TRF. P/O  AUTOMOVEL CLUB DE PORTUGAL  791310",
+            "TRF. P/O  DIALOGOS E MENSAGENS UNIPES Devolu  o"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.2
+    },
+    "Créditos/Seguros Bilal - Pessoal Millennium": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 17.26,
+          "descricoes_comuns": [
+            "DD OCIDENTAL MR INCEN MR83055017 00167561389SET"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Saúde - Consultas Bilal": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 2,
+          "valor_total": 111.42,
+          "descricoes_comuns": [
+            "COMPRA 6340 CLIN MEDI DENT PRA A1050-072 LISBOA",
+            "MBWAY-TRF P2P P/004554544029083356150"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.2
+    },
+    "Saúde - Pruvit": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 56.05,
+          "descricoes_comuns": [
+            "COMPRA 6340 pruvit.com Praha 1 CZ"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Casa - Renda Fontanelas": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 600.0,
+          "descricoes_comuns": [
+            "TRF P/ ARTUR JOSE COELHO SEMIAO"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Casa - Renda Monte da Caparica": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 2,
+          "valor_total": 581.55,
+          "descricoes_comuns": [
+            "PAG.PRESTACAO N. 044 EMP.N.   3291574732",
+            "PAG.PRESTACAO N. 074 EMP.N.   1767315763"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.2
+    },
+    "Saúde - Consultas Daniela": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 25.0,
+          "descricoes_comuns": [
+            "OCULISTA DO BAIRRO TELF 911 742 580"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Saúde - Lifewave": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 96.09,
+          "descricoes_comuns": [
+            "COMPRA 6340 LIFEWAVE ATHENRY"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    },
+    "Noah - Pensão de Alimentos": {
+      "historico_uso": {
+        "setembro_2024": {
+          "count": 1,
+          "valor_total": 220.0,
+          "descricoes_comuns": [
+            "TRF MB WAY P/ MARTA ALEXANDRA CORREIA SILVA"
+          ]
+        }
+      },
+      "padroes_descricao": [],
+      "confianca": 0.1
+    }
+  },
+  "aliases": {},
+  "padroes_descricao": {
+    "bolt": {
+      "Deslocações Bilal - Transportes": 4
+    },
+    "comissao": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 6
+    },
+    "mbway": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 6
+    },
+    "50.00": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "apparte": {
+      "Transferência Interna": 5
+    },
+    "compra": {
+      "Pessoal Bilal - Comer fora": 20
+    },
+    "6340": {
+      "Pessoal Bilal - Comer fora": 23
+    },
+    "aldea": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "janas": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "coze": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 2
+    },
+    "daniela": {
+      "Casa - Outros": 3
+    },
+    "alves": {
+      "Casa - Outros": 3
+    },
+    "sofia": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "sousa": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "david": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "almada": {
+      "Pessoal Bilal - Comer fora": 3
+    },
+    "caixa": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "geral": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "arredondamento": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 24
+    },
+    "trocos": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 24
+    },
+    "revpoints": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 24
+    },
+    "abacus.ai": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 2
+    },
+    "ziggy": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "cocktailsfood": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "contactless": {
+      "Pessoal Bilal - Comer fora": 6
+    },
+    "trf.": {
+      "Transferência Interna": 3
+    },
+    "carlos": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "alberto": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "assuncao": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "alho": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "sintra": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "lisboa": {
+      "Deslocações Bilal - Transportes": 3
+    },
+    "lidl": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "agradece": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "1070-060": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "est.s.rios": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "aldi": {
+      "Casa - Supermercado Bilal": 3
+    },
+    "caparica": {
+      "Casa - Supermercado Bilal": 7
+    },
+    "google": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 2
+    },
+    "youtube": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 2
+    },
+    "g.co": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "helppay": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "carregamento": {
+      "Receitas - Lifewave": 5
+    },
+    "nium": {
+      "Receitas - Lifewave": 5
+    },
+    "international": {
+      "Receitas - Lifewave": 5
+    },
+    "payout": {
+      "Receitas - Lifewave": 5
+    },
+    "systems": {
+      "Receitas - Lifewave": 5
+    },
+    "lifewave": {
+      "Receitas - Lifewave": 5
+    },
+    "transferência": {
+      "Transferência Interna": 2
+    },
+    "utilizador": {
+      "Transferência Interna": 2
+    },
+    "revolut": {
+      "Transferência Interna": 2
+    },
+    "mestre": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "gaucho": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "jogos": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "60.00": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "audible": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "nicklas": {
+      "Pessoal Bilal - Barbeiro": 1
+    },
+    "peyk": {
+      "Pessoal Bilal - Barbeiro": 1
+    },
+    "millgaard": {
+      "Pessoal Bilal - Barbeiro": 1
+    },
+    "pingo": {
+      "Casa - Supermercado Bilal": 4
+    },
+    "doce": {
+      "Casa - Supermercado Bilal": 4
+    },
+    "iialmada": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "casa": {
+      "Receitas - Renda Monte da Caparica": 1
+    },
+    "noah": {
+      "Receitas - Renda Monte da Caparica": 1
+    },
+    "quintas": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "monte": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "capari": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "herminia": {
+      "Casa - Outros": 1
+    },
+    "maria": {
+      "Casa - Outros": 1
+    },
+    "matos": {
+      "Casa - Outros": 1
+    },
+    "camacho": {
+      "Casa - Outros": 1
+    },
+    "continente": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "spar": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "lampas": {
+      "Casa - Supermercado Bilal": 2
+    },
+    "nilton": {
+      "Pessoal Bilal - Barbeiro": 2
+    },
+    "joao": {
+      "Pessoal Bilal - Barbeiro": 2
+    },
+    "morais": {
+      "Pessoal Bilal - Barbeiro": 2
+    },
+    "silvia": {
+      "Casa - Limpeza": 1
+    },
+    "cristina": {
+      "Casa - Limpeza": 1
+    },
+    "silva": {
+      "Casa - Limpeza": 1
+    },
+    "tavares": {
+      "Casa - Limpeza": 1
+    },
+    "pruvit": {
+      "Receitas - Pruvit": 1
+    },
+    "ventures": {
+      "Receitas - Pruvit": 1
+    },
+    "microsoft": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "bxval-": {
+      "Deslocações Bilal - Carro": 2
+    },
+    "viaverde": {
+      "Deslocações Bilal - Carro": 2
+    },
+    "40.00": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "faturas": {
+      "Casa - Internet (Net)": 1
+    },
+    "1600-404": {
+      "Casa - Internet (Net)": 1
+    },
+    "bilal": {
+      "Transferência Interna": 15
+    },
+    "machraa": {
+      "Transferência Interna": 15
+    },
+    "pragal": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "estacao": {
+      "Deslocações Bilal - Transportes": 3
+    },
+    "2800": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "figueiredo": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "andradecosta": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "caparc": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "ojuros": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "prestação": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "trans.": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "repartida": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "juros": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "crédito": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "adicional": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "imposto": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 4
+    },
+    "selo": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 8
+    },
+    "oimposto": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 4
+    },
+    "sobre": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "utilizado": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "90.00": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "teresa": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "raquel": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "prudencio": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "iberdrola": {
+      "Casa - Luz": 1
+    },
+    "clientes": {
+      "Casa - Luz": 1
+    },
+    "1250-146": {
+      "Casa - Luz": 1
+    },
+    "eugenia": {
+      "Receitas - Lifewave": 1
+    },
+    "santos": {
+      "Receitas - Lifewave": 1
+    },
+    "ferreira": {
+      "Receitas - Lifewave": 1
+    },
+    "serv": {
+      "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)": 1
+    },
+    "20394/050598373": {
+      "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)": 1
+    },
+    "banco": {
+      "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)": 1
+    },
+    "comercial": {
+      "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)": 1
+    },
+    "portug": {
+      "Despesas Profissionais Bilal - Produtos (Lifewave/Pruvit, etc.)": 1
+    },
+    "automovel": {
+      "Receitas - Outros": 1
+    },
+    "club": {
+      "Receitas - Outros": 1
+    },
+    "portugal": {
+      "Receitas - Outros": 1
+    },
+    "791310": {
+      "Receitas - Outros": 1
+    },
+    "ocidental": {
+      "Créditos/Seguros Bilal - Pessoal Millennium": 1
+    },
+    "incen": {
+      "Créditos/Seguros Bilal - Pessoal Millennium": 1
+    },
+    "mr83055017": {
+      "Créditos/Seguros Bilal - Pessoal Millennium": 1
+    },
+    "00167561389set": {
+      "Créditos/Seguros Bilal - Pessoal Millennium": 1
+    },
+    "patameiras": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "comercia": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "clin": {
+      "Saúde - Consultas Bilal": 1
+    },
+    "medi": {
+      "Saúde - Consultas Bilal": 1
+    },
+    "dent": {
+      "Saúde - Consultas Bilal": 1
+    },
+    "a1050-072": {
+      "Saúde - Consultas Bilal": 1
+    },
+    "celeiro": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "strada": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "outleodivelas": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "cafe": {
+      "Pessoal Bilal - Comer fora": 3
+    },
+    "2725-019": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "algueirao": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "sheriffs": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "stake": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "house100": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "temu.com": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "dublin": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "150.00": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "pruvit.com": {
+      "Saúde - Pruvit": 1
+    },
+    "praha": {
+      "Saúde - Pruvit": 1
+    },
+    "artur": {
+      "Casa - Renda Fontanelas": 1
+    },
+    "jose": {
+      "Casa - Renda Fontanelas": 1
+    },
+    "coelho": {
+      "Casa - Renda Fontanelas": 1
+    },
+    "semiao": {
+      "Casa - Renda Fontanelas": 1
+    },
+    "mercearia": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "fontanelas2705-595": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "dialogos": {
+      "Receitas - Outros": 1
+    },
+    "mensagens": {
+      "Receitas - Outros": 1
+    },
+    "unipes": {
+      "Receitas - Outros": 1
+    },
+    "devolu": {
+      "Receitas - Outros": 1
+    },
+    "inatel": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "costa": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "mbway-trf": {
+      "Transferência Interna": 1
+    },
+    "p/003300000808033836109": {
+      "Transferência Interna": 1
+    },
+    "reserva": {
+      "Transferência Interna": 1
+    },
+    "emergencia": {
+      "Transferência Interna": 1
+    },
+    "pag.prestacao": {
+      "Casa - Renda Monte da Caparica": 2
+    },
+    "emp.n.": {
+      "Casa - Renda Monte da Caparica": 2
+    },
+    "3291574732": {
+      "Casa - Renda Monte da Caparica": 1
+    },
+    "capar": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "bescl": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "novo": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "https": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "hipay.com": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "levallois-perret": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "ocomissão": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 4
+    },
+    "serviço": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 2
+    },
+    "processamento": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 2
+    },
+    "internacional": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 2
+    },
+    "sqlgpt.cn": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 2
+    },
+    "singapore": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 2
+    },
+    "sete": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "rios": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "1500": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "barreto": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "felix": {
+      "Pessoal Bilal - Comer fora": 2
+    },
+    "fabrica": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "1921": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "almad": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "auto": {
+      "Deslocações Bilal - Carro": 1
+    },
+    "00000778425": {
+      "Deslocações Bilal - Carro": 1
+    },
+    "pt68101042": {
+      "Deslocações Bilal - Carro": 1
+    },
+    "oculista": {
+      "Saúde - Consultas Daniela": 1
+    },
+    "bairro": {
+      "Saúde - Consultas Daniela": 1
+    },
+    "telf": {
+      "Saúde - Consultas Daniela": 1
+    },
+    "athenry": {
+      "Saúde - Lifewave": 1
+    },
+    "220.00": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "p/004554544029083356150": {
+      "Saúde - Consultas Bilal": 1
+    },
+    "wizink": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "bank": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "20012899009": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "pt15100056": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "entrecampos": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "1700-155": {
+      "Deslocações Bilal - Transportes": 1
+    },
+    "sintrasinrio": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "mouro": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "amazon": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "supabase": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "ppagamento": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "débito": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "direto": {
+      "Créditos/Seguros Bilal - Wizink": 1
+    },
+    "rita": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "jesus": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "veiga": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "marta": {
+      "Noah - Pensão de Alimentos": 1
+    },
+    "alexandra": {
+      "Noah - Pensão de Alimentos": 1
+    },
+    "correia": {
+      "Noah - Pensão de Alimentos": 1
+    },
+    "oeiras": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "julien": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "odot": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "com.man.conta": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "pacote": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "cliente": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "frequente": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "082025": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "1767315763": {
+      "Casa - Renda Monte da Caparica": 1
+    },
+    "zoom": {
+      "Despesas Profissionais Bilal - Mensalidades (Replit, GPT, etc.)": 1
+    },
+    "17.3.4": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "coreto": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "rk37z5p24": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "luxembourg": {
+      "Casa - Supermercado Bilal": 1
+    },
+    "caneira": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "negrais": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "custodia": {
+      "Receitas - Lifewave": 1
+    },
+    "dias": {
+      "Receitas - Lifewave": 1
+    },
+    "almeida": {
+      "Receitas - Lifewave": 1
+    },
+    "praia": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "centro": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "eugenio": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "barreiro": {
+      "Pessoal Bilal - Comer fora": 1
+    },
+    "yang": {
+      "Casa - Outros": 1
+    },
+    "xiaorong": {
+      "Casa - Outros": 1
+    },
+    "2705-297": {
+      "Casa - Outros": 1
+    },
+    "colares": {
+      "Casa - Outros": 1
+    },
+    "adelina": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "monteiro": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "branco": {
+      "Receitas - Sessões Bilal": 1
+    },
+    "tijs": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "berens": {
+      "Receitas - Rendas Fontanelas": 1
+    },
+    "vida": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "rka0533652": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    },
+    "00016882360set": {
+      "Créditos/Seguros Bilal - Despesas Bancárias Bilal": 1
+    }
+  },
+  "categorias_especiais": {
+    "Transferência Interna": {
+      "preservar": true,
+      "motivo": "Categoria específica para movimentos internos"
+    }
+  },
+  "metadata": {
+    "criado_em": "2025-09-28T13:14:41.525761",
+    "ultima_atualizacao": "2025-09-28T13:14:41.567056",
+    "versao": "1.0"
+  }
+}
